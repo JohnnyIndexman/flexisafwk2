@@ -23,9 +23,11 @@ Demonstrates functionality by adding, removing, and displaying books.
 ## How to Run
 Compile the program:
 javac Main.java
+
 Run the program:
 java Main
 
 ## Technologies Used
 Java SE
+
 Collections (ArrayList)
