@@ -26,8 +26,6 @@ class Book {
         return ISBN;
     }
 
-    // toString method for displaying book details
-    @Override
     public String toString() {
         return "Title: " + title + ", Author: " + author + ", ISBN: " + ISBN;
     }
